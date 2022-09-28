@@ -16,7 +16,7 @@ cellspacing="2">
 
 <tr>
 <td>Name</td>
-<td><input type=text name=textnames id="textname" size="30"></td>
+<td><input type=text name=textnames id="textnames" size="30"></td>
 </tr>
 
 <tr>
