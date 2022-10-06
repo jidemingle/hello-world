@@ -3,14 +3,14 @@
 <script type="text/javascript" src="validate.js"></script>
 </head>
 <body>
-<form action="#" name="PupilRegistration" onsubmit="return(validate());">
+<form action="#" name="studentRegistration" onsubmit="return(validate());">
 
 <table cellpadding="2" width="20%" bgcolor="99FFFF" align="center"
 cellspacing="2">
 
 <tr>
 <td colspan=2>
-<center><font size=4><b>Pupil Registration Form</b></font></center>
+<center><font size=4><b> students Registration Form</b></font></center>
 </td>
 </tr>
 
